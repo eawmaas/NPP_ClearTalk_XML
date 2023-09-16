@@ -4,6 +4,8 @@ This is the very first release, it will surely be updated regularly in the futur
 
 Add the xml-file to /userDefineLangs/ in the installation-directory of Notepad++
 
+The list below will show all stylings using ClearTalk.xml in NPP:
+
 -e- error
 
 -e-error etc.
